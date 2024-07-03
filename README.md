@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikita Bandiwar</h1>
+<h1 align="center">Helloo 👋, I'm Nikita Bandiwar</h1>
 <h3 align="center">A Passionate Python developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitabandiwar&label=Profile%20views&color=0e75b6&style=flat" alt="nikitabandiwar" /> </p>
@@ -12,6 +12,8 @@
 - 📫 How to reach me **nikita.bandiwar@gmail.com**
 
 - ⚡ Fun fact **I'm just a girl , trying to code**
+
+-  👩🏻‍💻Also  ** I love solving problems **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
