@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **with Cloud Computing**
 
-- 📝 I regularly write articles on [https://medium.com/@nikita.bandiwar](https://medium.com/@nikita.bandiwar)
+- 📝 I write articles on [https://medium.com/@nikita.bandiwar](https://medium.com/@nikita.bandiwar)
 
 - 📫 How to reach me **nikita.bandiwar@gmail.com**
 
