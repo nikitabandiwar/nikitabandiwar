@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I'm just a girl , trying to code**
 
--  👩🏻‍💻Also  ** I love solving problems **
+-  👩🏻‍💻Also   I love solving problems 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
