@@ -11,11 +11,10 @@
     class NikitaBandiwar:
 
     def __init__(self):
-        self.name = "Nikita Bandiwar"
         self.role = "Student"
         self.pronoun = "she|her"
-        self.technologies = ["Python", "Java","MySQL"]
-        self.collaborations = "nikita.badniwar@gmail.com"
+        self.code = ["Python", "Java","MySQL"]
+        self.collaborations = "nikita.bandiwar@gmail.com"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
