@@ -1,28 +1,30 @@
 <h1 align="center">Hello 👋, I'm Nikita Bandiwar</h1>
 
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nikitabandiwar&label=Profile%20views&color=0e75b6&style=flat" alt="nikitabandiwar" /> </p>
+            
 
+[![GitHub nikitabandiwar](https://img.shields.io/github/followers/nikitabandiwar?label=follow&style=social)]((https://github.com/nikitabandiwar))
 
+            
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitabandiwar" alt="nikitabandiwar" /></a> </p>
 
 
+    python
+    class NikitaBandiwar:
 
-class SoftwareEngineer:
     def __init__(self):
-        self.name = "Nikita Bandiwar"
         self.role = "Student"
         self.pronoun = "she|her"
-        self.technologies = ["Python", "Java","MySQL"]
+        self.code = ["Python" , "Java" , " MySQL"]
+        self.collaborations = "nikita.bandiwar@gmail.com"
+        self.passion = "coding"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
-
-me = SoftwareEngineer()
-me.say_hi()
-
-
+    me = NikitaBandiwar()    
+    me.say_hi()
+    
 
 
 - 👩🏻‍💻 I’m currently working on **building projects**
@@ -31,9 +33,6 @@ me.say_hi()
 
 - 📝 I write articles on [https://medium.com/@nikita.bandiwar](https://medium.com/@nikita.bandiwar) and https://nikitabandiwar.hashnode.dev/
 
-- 📫 How to reach me **nikita.bandiwar@gmail.com**
-
-- 📈Also   **I love solving problems**
 
 -  Looking forward to collaborate and contribute towards building cool projects. 
 
@@ -45,6 +44,7 @@ me.say_hi()
 <a href="https://www.linkedin.com/in/nikita-bandiwar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nikita-bandiwar" height="30" width="40" /></a>
 <a href="https://medium.com/@nikita.bandiwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nikita.bandiwar" height="30" width="40" /></a>
 <a href="https://nikitabandiwar.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@nikita.bandiwar" height="30" width="40" /></a>
+
 </p>
 
 
