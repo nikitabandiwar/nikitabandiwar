@@ -8,19 +8,21 @@
 
 
 
-class SoftwareEngineer:
+    class NikitaBandiwar:
+
     def __init__(self):
         self.name = "Nikita Bandiwar"
         self.role = "Student"
         self.pronoun = "she|her"
         self.technologies = ["Python", "Java","MySQL"]
+        self.collaborations = "nikita.badniwar@gmail.com"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
-me.say_hi()
+    me = NikitaBandiwar()
+    me.say_hi()
 
 
 
@@ -30,10 +32,6 @@ me.say_hi()
 - 🤝 I’m looking for help with **with Cloud Computing**
 
 - 📝 I write articles on [https://medium.com/@nikita.bandiwar](https://medium.com/@nikita.bandiwar) and https://nikitabandiwar.hashnode.dev/
-
-- 📫 How to reach me **nikita.bandiwar@gmail.com**
-
-- 📈Also   **I love solving problems**
 
 -  Looking forward to collaborate and contribute towards building cool projects. 
 
