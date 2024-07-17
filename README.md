@@ -56,5 +56,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitabandiwar&" alt="nikitabandiwar" /></p>
 
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikitabandiwar&show_icons=true&locale=en&layout=compact" alt="nikitabandiwar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitabandiwar&show_icons=true&locale=en" alt="nikitabandiwar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simran719&" alt="nikitabandiwar" /></p>
+
 -----
 -----
