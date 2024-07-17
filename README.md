@@ -53,7 +53,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitabandiwar&show_icons=true&locale=en" alt="nikitabandiwar" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitabandiwar&" alt="nikitabandiwar" /></p>
 
-<p><img align="center" src= "https://api.githubtrends.io/user/svg/nikitabandiwar/langs?time_range=one_year&theme=classic" alt="nikitabandiwar" /></p>
-
 -----
 -----
