@@ -6,31 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitabandiwar" alt="nikitabandiwar" /></a> </p>
 
-
-
-    class NikitaBandiwar:
-
-    def __init__(self):
-        self.role = "Student"
-        self.pronoun = "she|her"
-        self.code = ["Python", "Java","MySQL"]
-        self.collaborations = "nikita.bandiwar@gmail.com"
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-    me = NikitaBandiwar()
-    me.say_hi()
-
-
-
-
 - 👩🏻‍💻 I’m currently working on **building projects**
-
-- 🤝 I’m looking for help with **with Cloud Computing**
-
-- 📝 I write articles on [https://medium.com/@nikita.bandiwar](https://medium.com/@nikita.bandiwar) and https://nikitabandiwar.hashnode.dev/
 
 -  Looking forward to collaborate and contribute towards building cool projects. 
 
@@ -41,7 +17,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nikita-bandiwar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nikita-bandiwar" height="30" width="40" /></a>
 <a href="https://medium.com/@nikita.bandiwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nikita.bandiwar" height="30" width="40" /></a>
-<a href="https://nikitabandiwar.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@nikita.bandiwar" height="30" width="40" /></a>
 </p>
 
 
