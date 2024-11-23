@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Nikita Bandiwar</h1>
+<h1 align="center">Hello 👋, I'm Nikita </h1>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nikitabandiwar&label=Profile%20views&color=0e75b6&style=flat" alt="nikitabandiwar" /> </p>
