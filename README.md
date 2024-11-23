@@ -4,15 +4,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nikitabandiwar&label=Profile%20views&color=0e75b6&style=flat" alt="nikitabandiwar" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitabandiwar" alt="nikitabandiwar" /></a> </p>
-
-- 👩🏻‍💻 I’m currently working on **building projects**
-
--  Looking forward to collaborate and contribute towards building cool projects. 
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nikita-bandiwar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nikita-bandiwar" height="30" width="40" /></a>
